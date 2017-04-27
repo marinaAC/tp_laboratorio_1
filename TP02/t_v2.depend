@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1493238756 source:c:\users\b042408\m\t22\t_v2\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493238746 c:\users\b042408\m\t22\t_v2\funciones.h
+
+1493238769 source:c:\users\b042408\m\t22\t_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493263862 source:c:\users\marina\utn\programacion-laboratorioclases\laboratorio-programacion\t_v2\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493263135 c:\users\marina\utn\programacion-laboratorioclases\laboratorio-programacion\t_v2\funciones.h
+
+1493264834 source:c:\users\marina\utn\programacion-laboratorioclases\laboratorio-programacion\t_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493315021 source:c:\users\b042408\m\programacion-laboratorioclases\laboratorio-programacion\t_v2\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493314606 c:\users\b042408\m\programacion-laboratorioclases\laboratorio-programacion\t_v2\funciones.h
+
+1493314969 source:c:\users\b042408\m\programacion-laboratorioclases\laboratorio-programacion\t_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
