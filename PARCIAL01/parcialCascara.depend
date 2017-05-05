@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493942420 source:d:\examen\tp_laboratorio_1\parcial01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1493944777 d:\examen\tp_laboratorio_1\parcial01\mibiblioteca.h
+
+1493944523 source:d:\examen\tp_laboratorio_1\parcial01\mibiblioteca.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+
