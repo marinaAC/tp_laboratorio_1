@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1496456399 source:c:\users\marina\utn\tp_laboratorio1\programacion-laboratorioclases\laboratorio-programacion\tp_3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496452050 c:\users\marina\utn\tp_laboratorio1\programacion-laboratorioclases\laboratorio-programacion\tp_3\tp_3_cascara\funciones.h
+
+1496456237 source:c:\users\marina\utn\tp_laboratorio1\programacion-laboratorioclases\laboratorio-programacion\tp_3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

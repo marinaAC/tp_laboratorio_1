@@ -13,3 +13,17 @@
 	<stdlib.h>
 	"miBiblioteca.h"
 
+1494689203 source:c:\users\marina\utn\tp_laboratorio1\tp_laboratorio_1\parcial01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1494689203 c:\users\marina\utn\tp_laboratorio1\tp_laboratorio_1\parcial01\mibiblioteca.h
+
+1494689203 source:c:\users\marina\utn\tp_laboratorio1\tp_laboratorio_1\parcial01\mibiblioteca.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+
